@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/simplecalc.dir/main.c.o  -o simplecalc 
